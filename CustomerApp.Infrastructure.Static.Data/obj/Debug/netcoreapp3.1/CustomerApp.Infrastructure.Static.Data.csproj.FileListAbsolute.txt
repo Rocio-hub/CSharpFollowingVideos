@@ -1,0 +1,14 @@
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\CustomerApp.Infrastructure.Static.Data.deps.json
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\CustomerApp.Infrastructure.Static.Data.dll
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\CustomerApp.Infrastructure.Static.Data.pdb
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\CustomerApp.Core.dll
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\CustomerApp.Core.Entity.dll
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\CustomerApp.Core.Entity.pdb
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\CustomerApp.Core.pdb
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.Static.Data.csprojAssemblyReference.cache
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.Static.Data.AssemblyInfoInputs.cache
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.Static.Data.AssemblyInfo.cs
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.Static.Data.csproj.CoreCompileInputs.cache
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.Static.Data.csproj.CopyComplete
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.Static.Data.dll
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.Static.Data.pdb

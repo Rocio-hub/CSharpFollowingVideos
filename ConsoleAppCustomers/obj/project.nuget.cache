@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gtkMTNocSHYRVk3zFjAeWJvuXmAAqZ9RLvTgCKSadgeU6Ualgz4vq7MxpgCgckYwzv4pqDckXfU6yIQ9IZ1iCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rocío\\source\\repos\\CSharpFollowingVideos\\ConsoleAppCustomers\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rocío\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.8\\microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
+    "C:\\Users\\Rocío\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

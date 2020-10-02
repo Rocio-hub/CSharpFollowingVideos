@@ -1,0 +1,12 @@
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Core\bin\Debug\netstandard2.0\CustomerApp.Core.deps.json
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Core\bin\Debug\netstandard2.0\CustomerApp.Core.dll
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Core\bin\Debug\netstandard2.0\CustomerApp.Core.pdb
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Core\bin\Debug\netstandard2.0\CustomerApp.Core.Entity.dll
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Core\bin\Debug\netstandard2.0\CustomerApp.Core.Entity.pdb
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Core\obj\Debug\netstandard2.0\CustomerApp.Core.csprojAssemblyReference.cache
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Core\obj\Debug\netstandard2.0\CustomerApp.Core.AssemblyInfoInputs.cache
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Core\obj\Debug\netstandard2.0\CustomerApp.Core.AssemblyInfo.cs
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Core\obj\Debug\netstandard2.0\CustomerApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Core\obj\Debug\netstandard2.0\CustomerApp.Core.csproj.CopyComplete
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Core\obj\Debug\netstandard2.0\CustomerApp.Core.dll
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Core\obj\Debug\netstandard2.0\CustomerApp.Core.pdb

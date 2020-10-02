@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CustomerApp.Infrastructure.Static.Data/1.0.0": {
+        "dependencies": {
+          "CustomerApp.Core": "1.0.0",
+          "CustomerApp.Core.Entity": "1.0.0"
+        },
+        "runtime": {
+          "CustomerApp.Infrastructure.Static.Data.dll": {}
+        }
+      },
+      "CustomerApp.Core/1.0.0": {
+        "dependencies": {
+          "CustomerApp.Core.Entity": "1.0.0"
+        },
+        "runtime": {
+          "CustomerApp.Core.dll": {}
+        }
+      },
+      "CustomerApp.Core.Entity/1.0.0": {
+        "runtime": {
+          "CustomerApp.Core.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CustomerApp.Infrastructure.Static.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomerApp.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomerApp.Core.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

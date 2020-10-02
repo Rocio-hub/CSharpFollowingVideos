@@ -1,0 +1,14 @@
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\bin\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.deps.json
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\bin\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.dll
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.csprojAssemblyReference.cache
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.AssemblyInfoInputs.cache
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.AssemblyInfo.cs
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\bin\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.pdb
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\bin\Debug\netcoreapp3.1\CustomerApp.Core.dll
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\bin\Debug\netcoreapp3.1\CustomerApp.Core.Entity.dll
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\bin\Debug\netcoreapp3.1\CustomerApp.Core.Entity.pdb
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\bin\Debug\netcoreapp3.1\CustomerApp.Core.pdb
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.csproj.CoreCompileInputs.cache
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.csproj.CopyComplete
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.dll
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.pdb
