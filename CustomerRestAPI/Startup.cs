@@ -29,12 +29,12 @@ namespace CustomerRestAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<CustomerAppContext>(
-                opt => opt.UseInMemoryDatabase("DB")
-                );
-
             /*services.AddDbContext<CustomerAppContext>(
-                opt => opt.UseSqlite("Data source = customerApp.db"));*/
+                opt => opt.UseInMemoryDatabase("DB")
+                );*/
+
+            services.AddDbContext<CustomerAppContext>(
+                opt => opt.UseSqlite("Data source = customerApp.db"));
 
             services.AddScoped<ICustomerRepository, CustomerRepository>();
             services.AddScoped<ICustomerService, CustomerService>();
@@ -42,14 +42,11 @@ namespace CustomerRestAPI
             services.AddScoped<IOrderRepository, OrderRepository>();
             services.AddScoped<IOrderService, OrderService>();
 
-            //services.AddMvc().AddJsonOptions(options =>
-            //{
-            //    options.SerializerSettings.ReferenceLoopHandling = ReferenceLoopHandling.Ignore;
-            //    options.SerializerSettings.MaxDepth = 3;
-            //});
+            services.AddMvc().AddNewtonsoftJson(options => 
+            options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
 
-        services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
-    }
+            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
+        }
 
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -60,38 +57,24 @@ namespace CustomerRestAPI
                 app.UseDeveloperExceptionPage();
                 using (var scope = app.ApplicationServices.CreateScope())
                 {
+                    
                     var ctx = scope.ServiceProvider.GetService<CustomerAppContext>();
-                    var cust1 = ctx.Customers.Add(new Customer()
-                    {
-                        ID = 1,
-                        FirstName = "Mickey",
-                        LastName = "Mouse",
-                        Address = "Playhouse"
-                    }).Entity;
-
-                    ctx.Customers.Add(new Customer()
-                    {
-                        ID = 2,
-                        FirstName = "Ceni",
-                        LastName = "Cienta",
-                        Address = "Castillo"
-                    });
-
-                    ctx.Orders.Add(new Order()
-                    {
-                        ID = 1,
-                        OrderDate = DateTime.Now,
-                        DeliveryDate = DateTime.Now,
-                        Customer = cust1
-                    });
-
-                    ctx.SaveChanges();
+                    DBInitializer.SeedDB(ctx);
                 }
             }
             else
             {
-                app.UseHsts();
+                
             }
+            
+            //app.UseHsts();
+            app.UseRouting();
+            app.UseAuthentication();
+            app.UseAuthorization();
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllers();
+            });
         }
     }
 }

@@ -6,7 +6,9 @@ namespace CustomerApp.Core.ApplicationService
     public interface ICustomerService
     {
         //New customer
-        Customer NewCustomer(string firstName, string lastName, string address);
+        Customer NewCustomer(string firstName, 
+                             string lastName, 
+                             string address);
 
         //Create - POST
         Customer CreateCustomer(Customer cust);

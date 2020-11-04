@@ -12,6 +12,7 @@
   <ItemGroup>
     <ProjectReference Include="..\CustomerApp.Core.Entity\CustomerApp.Core.Entity.csproj" />
     <ProjectReference Include="..\CustomerApp.Core\CustomerApp.Core.csproj" />
+    <ProjectReference Include="..\CustomerApp.Infrastructure.SQL.Data\CustomerApp.Infrastructure.SQL.Data.csproj" />
   </ItemGroup>
 
 </Project>

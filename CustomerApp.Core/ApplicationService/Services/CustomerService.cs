@@ -68,9 +68,7 @@ namespace CustomerApp.Core.ApplicationService.Services
 
         public Customer FindCustomerByIDIncludeOrders(int id)
         {
-            var customer = _customerRepo.ReadByID(id);
-            customer.OrdersList = _orderRepo.ReadAll().Where(order => order.Customer.ID == id).ToList();
-
+            var customer = _customerRepo.ReadByIDIncludeOrders(id);            
             return customer;
         }
     }

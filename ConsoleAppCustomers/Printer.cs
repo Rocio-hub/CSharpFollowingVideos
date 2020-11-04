@@ -1,7 +1,5 @@
 ﻿using ConsoleApp.Core.Entity;
 using CustomerApp.Core.ApplicationService;
-using CustomerApp.Core.DomainService;
-using CustomerApp.Infrastructure.Static.Data.Repositories;
 using System;
 using System.Collections.Generic;
 

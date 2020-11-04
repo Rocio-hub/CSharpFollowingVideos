@@ -51,6 +51,20 @@ namespace CustomerApp.Core.ApplicationService.Services
             return _orderRepo.ReadAll().ToList();
         }
 
+        public List<Order> GetFilteredOrders(Filter filter)
+        {
+            if(filter.CurrentPage < 0 || filter.ItemsPerPage < 0)
+            {
+                throw new InvalidDataException("CurrentPage and ItemsPage must be 0 or more");
+            }
+            if((filter.CurrentPage - 1 * filter.ItemsPerPage)>= _orderRepo.Count())
+            {
+                throw new InvalidDataException("Index out of bounds, CurrentPage is too high")
+            }
+            
+            return _orderRepo.ReadAll(filter).ToList();
+        }
+
         public Order UpdateOrder(Order orderUpdate)
         {
             return _orderRepo.Update(orderUpdate);
@@ -60,5 +74,7 @@ namespace CustomerApp.Core.ApplicationService.Services
         {
             return _orderRepo.Delete(id);
         }
+
+       
     }
 }

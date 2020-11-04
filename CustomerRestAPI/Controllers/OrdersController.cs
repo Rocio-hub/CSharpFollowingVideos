@@ -20,18 +20,26 @@ namespace CustomerRestAPI.Controllers
             _orderService = orderService;
         }
 
-        // GET: api/orders
+        // GET: api/orders -- READ ALL
         [HttpGet]
-        public ActionResult<IEnumerable<Order>> Get()
+        public ActionResult<IEnumerable<Order>> Get([FromQuery] Filter filter)
         {
-            return Ok(_orderService.GetAllOrders());
+            try
+            {
+                return Ok(_orderService.GetFilteredOrders(filter));
+            }
+            catch (Exception e)
+            {
+                return BadRequest(e.Message);
+            }
+            //return Ok(_orderService.GetAllOrders());
         }
 
         // GET api/orders/5
         [HttpGet("{id}")]
         public ActionResult<string> Get(int id)
         {
-            return "value";
+            return Ok(_orderService.FindOrderByID(id));
         }
 
         // POST api/orders
@@ -50,8 +58,13 @@ namespace CustomerRestAPI.Controllers
 
         // PUT api/orders/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public ActionResult<Order> Put(int id, [FromBody] Order order)
         {
+            if (id < 1 || id != order.ID)
+            {
+                return BadRequest("Parameter ID and order ID must be the same");
+            }
+            return Ok(_orderService.UpdateOrder(order));
         }
 
         // DELETE api/orders/5

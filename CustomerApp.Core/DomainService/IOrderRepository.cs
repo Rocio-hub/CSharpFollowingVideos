@@ -12,7 +12,8 @@ namespace CustomerApp.Core.DomainService
 
         //Read
         Order ReadByID(int id);
-        IEnumerable<Order> ReadAll();
+        IEnumerable<Order> ReadAll(Filter filter = null);
+        int Count();
 
         //Update
         Order Update(Order orderUpdate);

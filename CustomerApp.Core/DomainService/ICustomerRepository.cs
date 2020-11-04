@@ -19,6 +19,6 @@ namespace CustomerApp.Core.DomainService
 
         //Delete Data
         Customer Delete(int id);
-
+        Customer ReadByIDIncludeOrders(int id); 
     }
 }

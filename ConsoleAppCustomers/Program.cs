@@ -1,7 +1,7 @@
 ﻿using CustomerApp.Core.ApplicationService;
 using CustomerApp.Core.ApplicationService.Services;
 using CustomerApp.Core.DomainService;
-using CustomerApp.Infrastructure.Static.Data.Repositories;
+using CustomerApp.Infrastructure.SQL.Data.Repositories;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace ConsoleApp

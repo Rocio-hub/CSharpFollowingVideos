@@ -16,11 +16,13 @@ namespace CustomerApp.Core.ApplicationService
         //Read - GET
         Order FindOrderByID(int id);
         List<Order> GetAllOrders();
+        List<Order> GetFilteredOrders(Filter filter);
 
         //Update
         Order UpdateOrder(Order orderUpdate);
 
         //Delete
         Order DeleteOrder(int id);
+        
     }
 }

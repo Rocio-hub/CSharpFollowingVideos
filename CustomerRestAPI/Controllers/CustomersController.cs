@@ -24,7 +24,7 @@ namespace CustomerRestAPI.Controllers
             return _customerService.GetAllCustomers();
         }
 
-        // GET api/customers/5 -- READ
+        // GET api/customers/5 -- READ by ID
         [HttpGet("{id}")]
         public ActionResult<Customer> Get(int id)
         {
@@ -35,7 +35,7 @@ namespace CustomerRestAPI.Controllers
             return _customerService.FindCustomerByIDIncludeOrders(id);
         }
 
-        // POST api/customers -- CREATE
+        // POST api/customers -- CREATE JSON
         [HttpPost]
         public ActionResult<Customer> Post([FromBody] Customer customer)
         {
@@ -56,7 +56,7 @@ namespace CustomerRestAPI.Controllers
         {
             if (id < 1 || id != customer.ID)
             {
-                return BadRequest("ID and CustomerID must be the same");
+                return BadRequest("Parameter ID and CustomerID must be the same");
             }
             return Ok(_customerService.UpdateCustomer(customer));
         }

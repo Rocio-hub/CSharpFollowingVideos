@@ -8,7 +8,7 @@ C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.SQ
 C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\bin\Debug\netcoreapp3.1\CustomerApp.Core.Entity.dll
 C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\bin\Debug\netcoreapp3.1\CustomerApp.Core.Entity.pdb
 C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\bin\Debug\netcoreapp3.1\CustomerApp.Core.pdb
-C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.csproj.CoreCompileInputs.cache
 C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.csproj.CopyComplete
 C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.dll
 C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.pdb
+C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.csproj.CoreCompileInputs.cache
