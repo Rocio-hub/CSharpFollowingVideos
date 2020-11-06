@@ -536,3 +536,5 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 
 # End of https://www.toptal.com/developers/gitignore/api/database,visualstudio,visualstudiocode,csharp
+*.db
+.vs/CSharpFollowingVideos/v16/.suo
