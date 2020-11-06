@@ -11,6 +11,7 @@ namespace CustomerApp.Infrastructure.SQL.Data
         public static void SeedDB(CustomerAppContext ctx)
         {
             //Every time I restart I reset the db: IMPORTANT: only on development process !!
+            ctx.Database.EnsureDeleted();
             ctx.Database.EnsureCreated();
             var cust1 = ctx.Customers.Add(new Customer()
             {

@@ -14,6 +14,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Newtonsoft.Json;
 using System;
+using System.IO;
+using System.Reflection;
 
 namespace CustomerRestAPI
 {
@@ -32,6 +34,18 @@ namespace CustomerRestAPI
             /*services.AddDbContext<CustomerAppContext>(
                 opt => opt.UseInMemoryDatabase("DB")
                 );*/
+            services.AddSwaggerGen(options =>
+            {
+                options.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo
+                {
+                    Title = "Swagger API",
+                    Description = "Trying Swagger",
+                    Version = "v1"
+                });
+                var fileName = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+                var filePath = Path.Combine(AppContext.BaseDirectory, fileName);
+                options.IncludeXmlComments(filePath);
+            });
 
             services.AddDbContext<CustomerAppContext>(
                 opt => opt.UseSqlite("Data source = customerApp.db"));
@@ -74,6 +88,12 @@ namespace CustomerRestAPI
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+            });
+            app.UseSwagger();
+            app.UseSwaggerUI(options =>
+            {
+                options.SwaggerEndpoint("/swagger/v1/swagger.json", "Swagger API");
+                options.RoutePrefix = "";
             });
         }
     }

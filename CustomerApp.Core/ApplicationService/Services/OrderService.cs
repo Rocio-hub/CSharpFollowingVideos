@@ -59,7 +59,7 @@ namespace CustomerApp.Core.ApplicationService.Services
             }
             if((filter.CurrentPage - 1 * filter.ItemsPerPage)>= _orderRepo.Count())
             {
-                throw new InvalidDataException("Index out of bounds, CurrentPage is too high")
+                throw new InvalidDataException("Index out of bounds, CurrentPage is too high");
             }
             
             return _orderRepo.ReadAll(filter).ToList();

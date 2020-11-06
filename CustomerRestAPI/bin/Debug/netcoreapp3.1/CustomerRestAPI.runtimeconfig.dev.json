@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Rocío\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Rocío\\.nuget\\packages"
+      "C:\\Users\\Tesol\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Tesol\\.nuget\\packages"
     ]
   }
 }

@@ -21,6 +21,9 @@ namespace CustomerRestAPI.Controllers
         }
 
         // GET: api/orders -- READ ALL
+        /// <summary>
+        /// Gets all the Orders with or without filter
+        /// </summary>
         [HttpGet]
         public ActionResult<IEnumerable<Order>> Get([FromQuery] Filter filter)
         {

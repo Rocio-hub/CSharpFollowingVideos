@@ -12,3 +12,17 @@ C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.SQ
 C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.dll
 C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.pdb
 C:\Users\Rocío\source\repos\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.csproj.CoreCompileInputs.cache
+C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\bin\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.deps.json
+C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\bin\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.dll
+C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\bin\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.pdb
+C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\bin\Debug\netcoreapp3.1\CustomerApp.Core.dll
+C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\bin\Debug\netcoreapp3.1\CustomerApp.Core.Entity.dll
+C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\bin\Debug\netcoreapp3.1\CustomerApp.Core.Entity.pdb
+C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\bin\Debug\netcoreapp3.1\CustomerApp.Core.pdb
+C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.csprojAssemblyReference.cache
+C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.AssemblyInfoInputs.cache
+C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.AssemblyInfo.cs
+C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.csproj.CoreCompileInputs.cache
+C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.csproj.CopyComplete
+C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.dll
+C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.pdb
