@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ZiHAC/L0lcbaf4JyyKBjRxsw20oqNo9XzW4IDd9s69Ksk3BLnxBe/MR3syKBw3eBLqAtMmqDPddC5HPLGlluSw==",
+  "dgSpecHash": "gsX2ER/hc97NtVfy83b+HgoQYZ426KkJnYpEHXGUqT0hBZ7st0PpARkX1uR+CUzVr7bHg51Mal6aIWSTj9JYrw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Tesol\\Documents\\GitHub\\CSharpFollowingVideos\\CustomerRestAPI\\CustomerRestAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Tesol\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.9\\microsoft.aspnetcore.authentication.jwtbearer.3.1.9.nupkg.sha512",
     "C:\\Users\\Tesol\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.9\\microsoft.aspnetcore.jsonpatch.3.1.9.nupkg.sha512",
     "C:\\Users\\Tesol\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.9\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.9.nupkg.sha512",
     "C:\\Users\\Tesol\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

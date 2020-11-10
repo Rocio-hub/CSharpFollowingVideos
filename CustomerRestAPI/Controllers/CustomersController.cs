@@ -2,6 +2,7 @@
 using CustomerApp.Core.ApplicationService;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
+using Microsoft.AspNetCore.Authorization;
 
 
 namespace CustomerRestAPI.Controllers
@@ -18,6 +19,7 @@ namespace CustomerRestAPI.Controllers
         }
 
         // GET: api/customers -- READ ALL
+        
         [HttpGet]
         public ActionResult<IEnumerable<Customer>> Get()
         {
@@ -25,6 +27,7 @@ namespace CustomerRestAPI.Controllers
         }
 
         // GET api/customers/5 -- READ by ID
+        [Authorize(Roles = "Administrator")]
         [HttpGet("{id}")]
         public ActionResult<Customer> Get(int id)
         {
@@ -36,6 +39,7 @@ namespace CustomerRestAPI.Controllers
         }
 
         // POST api/customers -- CREATE JSON
+        [Authorize (Roles = "Administrator")]
         [HttpPost]
         public ActionResult<Customer> Post([FromBody] Customer customer)
         {
@@ -51,6 +55,7 @@ namespace CustomerRestAPI.Controllers
         }
 
         // PUT api/customers/5 -- UPDATE
+        [Authorize(Roles = "Administrator")]
         [HttpPut("{id}")]
         public ActionResult<Customer> Put(int id, [FromBody] Customer customer)
         {
@@ -62,6 +67,7 @@ namespace CustomerRestAPI.Controllers
         }
 
         // DELETE api/customers/5
+        [Authorize(Roles = "Administrator")]
         [HttpDelete("{id}")]
         public ActionResult<Customer> Delete(int id)
         {

@@ -187,7 +187,8 @@ C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerRestAPI\bin\Debug\
 C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerRestAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerRestAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerRestAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerRestAPI\obj\Debug\netcoreapp3.1\CustomerRestAPI.xml
+C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerRestAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerRestAPI\obj\Debug\netcoreapp3.1\CustomerRestAPI.csproj.CoreCompileInputs.cache
 C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerRestAPI\obj\Debug\netcoreapp3.1\CustomerRestAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerRestAPI\obj\Debug\netcoreapp3.1\CustomerRestAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerRestAPI\obj\Debug\netcoreapp3.1\CustomerRestAPI.xml

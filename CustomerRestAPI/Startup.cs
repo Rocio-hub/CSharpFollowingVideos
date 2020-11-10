@@ -17,6 +17,10 @@ using System;
 using System.IO;
 using System.Reflection;
 
+using Microsoft.IdentityModel.Tokens;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using CustomerRestAPI.Helpers;
+
 namespace CustomerRestAPI
 {
     public class Startup
@@ -24,6 +28,7 @@ namespace CustomerRestAPI
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+            JwtSecurityKey.SetSecret("nnfal45lngfqLQQLLLL75K");
         }
 
         public IConfiguration Configuration { get; }
@@ -31,9 +36,23 @@ namespace CustomerRestAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            /*services.AddDbContext<CustomerAppContext>(
-                opt => opt.UseInMemoryDatabase("DB")
-                );*/
+            //Add JWT Based Authentication
+            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
+            {
+                options.TokenValidationParameters = new TokenValidationParameters
+                {
+                    ValidateAudience = false,
+                    ValidateIssuer = false,
+                    ValidateIssuerSigningKey = true,
+                    IssuerSigningKey = JwtSecurityKey.Key,
+                    ValidateLifetime = true,
+                    ClockSkew = TimeSpan.FromMinutes(5)
+                };
+            });
+
+        
+            
+            //Add Swagger
             services.AddSwaggerGen(options =>
             {
                 options.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo
@@ -47,6 +66,9 @@ namespace CustomerRestAPI
                 options.IncludeXmlComments(filePath);
             });
 
+            /*services.AddDbContext<CustomerAppContext>(
+            opt => opt.UseInMemoryDatabase("DB")
+            );*/
             services.AddDbContext<CustomerAppContext>(
                 opt => opt.UseSqlite("Data source = customerApp.db"));
 
