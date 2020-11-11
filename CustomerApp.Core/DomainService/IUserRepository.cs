@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace CustomerApp.Core.DomainService
-{/
+{
     public interface IUserRepository<T>
     {
         IEnumerable<T> GetAll();
