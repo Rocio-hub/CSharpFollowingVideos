@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "5ONF+R9Sb7uNolFcOe1u6/HyH2EwRJh8CFewWCJzvrEQB1dOOQy9n+9mBRQs6InR2GGCgZubdZ6ObSUYJohkOQ==",
+  "dgSpecHash": "P1Iod0wOBTtBe54lPCg0ZNrNOvUOel7i7xVjuy1HJCzdkpvMzCA4Cqxcl9S5i+VmnFSefVwIgoaCmG+zjvURCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tesol\\Documents\\GitHub\\CSharpFollowingVideos\\CustomerApp.Core.Entity\\CustomerApp.Core.Entity.csproj",
+  "projectFilePath": "D:\\Documentos\\GitHub\\CSharpFollowingVideos\\CustomerApp.Core.Entity\\CustomerApp.Core.Entity.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Tesol\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Tesol\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Francesco\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Francesco\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

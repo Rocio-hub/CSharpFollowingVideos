@@ -16,3 +16,12 @@ C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerApp.Core.Entity\ob
 C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerApp.Core.Entity\obj\Debug\netstandard2.0\CustomerApp.Core.Entity.csproj.CoreCompileInputs.cache
 C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerApp.Core.Entity\obj\Debug\netstandard2.0\CustomerApp.Core.Entity.dll
 C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerApp.Core.Entity\obj\Debug\netstandard2.0\CustomerApp.Core.Entity.pdb
+D:\Documentos\GitHub\CSharpFollowingVideos\CustomerApp.Core.Entity\bin\Debug\netstandard2.0\CustomerApp.Core.Entity.deps.json
+D:\Documentos\GitHub\CSharpFollowingVideos\CustomerApp.Core.Entity\bin\Debug\netstandard2.0\CustomerApp.Core.Entity.dll
+D:\Documentos\GitHub\CSharpFollowingVideos\CustomerApp.Core.Entity\bin\Debug\netstandard2.0\CustomerApp.Core.Entity.pdb
+D:\Documentos\GitHub\CSharpFollowingVideos\CustomerApp.Core.Entity\obj\Debug\netstandard2.0\CustomerApp.Core.Entity.csprojAssemblyReference.cache
+D:\Documentos\GitHub\CSharpFollowingVideos\CustomerApp.Core.Entity\obj\Debug\netstandard2.0\CustomerApp.Core.Entity.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\CSharpFollowingVideos\CustomerApp.Core.Entity\obj\Debug\netstandard2.0\CustomerApp.Core.Entity.AssemblyInfo.cs
+D:\Documentos\GitHub\CSharpFollowingVideos\CustomerApp.Core.Entity\obj\Debug\netstandard2.0\CustomerApp.Core.Entity.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\CSharpFollowingVideos\CustomerApp.Core.Entity\obj\Debug\netstandard2.0\CustomerApp.Core.Entity.dll
+D:\Documentos\GitHub\CSharpFollowingVideos\CustomerApp.Core.Entity\obj\Debug\netstandard2.0\CustomerApp.Core.Entity.pdb

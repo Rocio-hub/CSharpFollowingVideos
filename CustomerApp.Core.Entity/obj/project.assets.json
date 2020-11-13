@@ -180,19 +180,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tesol\\.nuget\\packages\\": {}
+    "C:\\Users\\Francesco\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tesol\\Documents\\GitHub\\CSharpFollowingVideos\\CustomerApp.Core.Entity\\CustomerApp.Core.Entity.csproj",
+      "projectUniqueName": "D:\\Documentos\\GitHub\\CSharpFollowingVideos\\CustomerApp.Core.Entity\\CustomerApp.Core.Entity.csproj",
       "projectName": "CustomerApp.Core.Entity",
-      "projectPath": "C:\\Users\\Tesol\\Documents\\GitHub\\CSharpFollowingVideos\\CustomerApp.Core.Entity\\CustomerApp.Core.Entity.csproj",
-      "packagesPath": "C:\\Users\\Tesol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tesol\\Documents\\GitHub\\CSharpFollowingVideos\\CustomerApp.Core.Entity\\obj\\",
+      "projectPath": "D:\\Documentos\\GitHub\\CSharpFollowingVideos\\CustomerApp.Core.Entity\\CustomerApp.Core.Entity.csproj",
+      "packagesPath": "C:\\Users\\Francesco\\.nuget\\packages\\",
+      "outputPath": "D:\\Documentos\\GitHub\\CSharpFollowingVideos\\CustomerApp.Core.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Tesol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Francesco\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

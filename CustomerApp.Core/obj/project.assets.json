@@ -196,19 +196,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tesol\\.nuget\\packages\\": {}
+    "C:\\Users\\Francesco\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tesol\\Documents\\GitHub\\CSharpFollowingVideos\\CustomerApp.Core\\CustomerApp.Core.csproj",
+      "projectUniqueName": "D:\\Documentos\\GitHub\\CSharpFollowingVideos\\CustomerApp.Core\\CustomerApp.Core.csproj",
       "projectName": "CustomerApp.Core",
-      "projectPath": "C:\\Users\\Tesol\\Documents\\GitHub\\CSharpFollowingVideos\\CustomerApp.Core\\CustomerApp.Core.csproj",
-      "packagesPath": "C:\\Users\\Tesol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tesol\\Documents\\GitHub\\CSharpFollowingVideos\\CustomerApp.Core\\obj\\",
+      "projectPath": "D:\\Documentos\\GitHub\\CSharpFollowingVideos\\CustomerApp.Core\\CustomerApp.Core.csproj",
+      "packagesPath": "C:\\Users\\Francesco\\.nuget\\packages\\",
+      "outputPath": "D:\\Documentos\\GitHub\\CSharpFollowingVideos\\CustomerApp.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Tesol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Francesco\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -221,8 +221,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Tesol\\Documents\\GitHub\\CSharpFollowingVideos\\CustomerApp.Core.Entity\\CustomerApp.Core.Entity.csproj": {
-              "projectPath": "C:\\Users\\Tesol\\Documents\\GitHub\\CSharpFollowingVideos\\CustomerApp.Core.Entity\\CustomerApp.Core.Entity.csproj"
+            "D:\\Documentos\\GitHub\\CSharpFollowingVideos\\CustomerApp.Core.Entity\\CustomerApp.Core.Entity.csproj": {
+              "projectPath": "D:\\Documentos\\GitHub\\CSharpFollowingVideos\\CustomerApp.Core.Entity\\CustomerApp.Core.Entity.csproj"
             }
           }
         }

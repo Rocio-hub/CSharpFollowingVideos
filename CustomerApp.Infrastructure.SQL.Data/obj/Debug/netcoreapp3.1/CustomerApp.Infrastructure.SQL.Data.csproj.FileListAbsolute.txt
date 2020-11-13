@@ -26,3 +26,17 @@ C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure
 C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.csproj.CopyComplete
 C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.dll
 C:\Users\Tesol\Documents\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.pdb
+D:\Documentos\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\bin\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.deps.json
+D:\Documentos\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\bin\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.dll
+D:\Documentos\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\bin\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.pdb
+D:\Documentos\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\bin\Debug\netcoreapp3.1\CustomerApp.Core.dll
+D:\Documentos\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\bin\Debug\netcoreapp3.1\CustomerApp.Core.Entity.dll
+D:\Documentos\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\bin\Debug\netcoreapp3.1\CustomerApp.Core.Entity.pdb
+D:\Documentos\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\bin\Debug\netcoreapp3.1\CustomerApp.Core.pdb
+D:\Documentos\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.csprojAssemblyReference.cache
+D:\Documentos\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.AssemblyInfoInputs.cache
+D:\Documentos\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.AssemblyInfo.cs
+D:\Documentos\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.csproj.CopyComplete
+D:\Documentos\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.dll
+D:\Documentos\GitHub\CSharpFollowingVideos\CustomerApp.Infrastructure.SQL.Data\obj\Debug\netcoreapp3.1\CustomerApp.Infrastructure.SQL.Data.pdb

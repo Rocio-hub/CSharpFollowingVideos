@@ -71,7 +71,7 @@ namespace CustomerApp.Infrastructure.SQL.Data
                 }
             };
 
-            //ctx.Customers.AddRange(items);
+            ctx.Users.AddRange(users);
 
             ctx.SaveChanges();
         }
